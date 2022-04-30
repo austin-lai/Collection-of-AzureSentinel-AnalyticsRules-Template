@@ -22,6 +22,8 @@ A collection of Azure Sentinel - Analytics Rules (Template) for your reference.
 
 ## Analytics Rules (Template)
 
+<details><summary>Analytics Rules (Template)</summary>
+
 ```json
 //  Replace "XXXXXX" to your own Subscription ID and Resource Group accordingly
 {
@@ -728,6 +730,8 @@ A collection of Azure Sentinel - Analytics Rules (Template) for your reference.
 }
 ```
 
+</details>
+    
 <br />
 
 ---
