@@ -731,7 +731,9 @@ A collection of Azure Sentinel - Analytics Rules (Template) for your reference.
 ```
 
 </details>
-    
+
+[Link to the file of Analytics Rules (Template) here](https://github.com/austin-lai/Collection-of-AzureSentinel-AnalyticsRules-Template/blob/master/Analytics%20Rules%20(Template).json)
+
 <br />
 
 ---
