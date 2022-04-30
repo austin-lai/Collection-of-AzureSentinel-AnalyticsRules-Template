@@ -14,7 +14,7 @@ A collection of Azure Sentinel - Analytics Rules (Template) for your reference.
 
 <!-- TOC -->
 
-- [Collection of Azure Sentinel - Analytics Rules Template](#collection-of-azure-sentinel---analytics-rules-template)
+- [Collection of Azure Sentinel - Analytics Rules (Template)](#collection-of-azure-sentinel---analytics-rules-template)
     - [Table of Contents](#table-of-contents)
     - [Analytics Rules (Template)](#analytics-rules-template)
 
